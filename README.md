@@ -387,7 +387,7 @@ python -m pytest tests/ --cov=rural_identity_verification --cov-report=html
 
 - **Demo Video**: https://drive.google.com/file/d/1JjnvjehKvGaIJTjtaV1xmwkMA5wsEPLu/view?usp=sharing
 - **Live MVP**: https://main.d34ttefjam3p7q.amplifyapp.com
-- **Screenshots**: See [demo-assets/screenshots/](demo-assets/screenshots/)
+- **Screenshots**: https://drive.google.com/drive/folders/1-6hvqR7oabpm7VPOuPRp3D6bsT-ZB8qN?usp=sharing
 
 ##  Innovation Highlights
 
